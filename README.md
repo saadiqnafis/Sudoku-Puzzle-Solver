@@ -7,3 +7,8 @@ to enable the users generate sudoku boards of their preferred size (e.g. 4x4, 16
 
 # What we used:
 The main data structure we used for implementing this project is stack. Apart from this, to make the program mroe efficient, we used hashmap.
+
+# Here's a GIF showing the solving process.
+We have modified the delay time so that we can see that the board is being solved.
+
+![bandicam 2023-12-03 17-09-13-101](https://github.com/saadiqnafis/Sudoku-Puzzle-Solver/assets/88062325/ab50443d-193e-4dfa-a67f-12c7b288bcf7)
